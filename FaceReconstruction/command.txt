@@ -1,0 +1,5 @@
+
+#generate disparity map
+python inference.py --dataset-dir './FaceReconstruction/test_image/' --output-dir './FaceReconstruction/output/' --pretrained './FaceReconstruction/checkpoints/resnet18_pose/09-20-14:52/dispnet_model_best.pth.tar' --resnet-layers 18 --output-disp 
+
+#generate point could file
