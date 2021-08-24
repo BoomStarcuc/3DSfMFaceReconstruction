@@ -1,4 +1,4 @@
-# (ACMMM 2021 oral) SfM Face Reconstruction Based on Massive Landmark
+# (ACMMM 2021 oral) SfM Face Reconstruction Based on Massive Landmark Bundle Adjustment
 This repository shows two tasks: Face landmark detection and Face 3D reconstruction, which is described in this paper: Deep Unsupervised 3D SfM Face Reconstruction Based on Massive Landmark Bundle Adjustment.
 
 ## Installation
